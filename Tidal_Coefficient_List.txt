@@ -1,0 +1,55 @@
+——————————————————————
+Tidal Coefficients
+——————————————————————
+
+EOS:			equations of state
+Q:			the mass ratio
+mNS:			the neutron-star mass
+C:			the neutron-star compactness
+kl(l=2,3,4);		the tidal love number for l—mode
+kappal(l=2,3,4):	the tidal coefficient for l—mode as same as the one in Damour et. al PRD 85 (2012)
+
+
+EOS:	APR4
+Q:	3
+mNS:	1.35
+C:	0.180
+k2:	0.0908
+k3:	0.0234
+k4:	0.00884
+kappa2:	2.815624e+00
+kappa3:	1.399715e+00
+kappa4:	1.020026e+00
+
+EOS:	APR4
+Q:	5
+mNS:	1.35
+C:	0.180
+k2:	0.0908
+k3:	0.0234
+k4:	0.00884
+kappa2:	6.179695e-01
+kappa3:	1.365368e-01
+kappa4:	4.422201e-02
+
+EOS:	H4
+Q:	3
+mNS:	1.35
+C:	0.147
+k2:	0.115
+k3:	0.0326
+k4:	0.0113
+kappa2:	9.816631e+00
+kappa3:	8.048734e+00
+kappa4:	8.069261e+00
+
+EOS:	H4
+Q:	5
+mNS:	1.35
+C:	0.147
+k2:	0.115
+k3:	0.0326
+k4:	0.0113
+kappa2:	2.154542e+00
+kappa3:	7.851226e-01
+kappa4:	3.498333e-01
